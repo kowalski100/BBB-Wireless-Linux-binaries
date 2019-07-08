@@ -1,2 +1,2 @@
-# BBB-Wireless-Linux-binaries
+# BBB Wireless Linux binaries
 Beaglebone black Wireless Linux Binaries
